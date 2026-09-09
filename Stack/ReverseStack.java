@@ -41,8 +41,6 @@ import java.util.*;
         s.push(2);
         s.push(3);
 
-
-       
         reverse(s);
         printStack(s);
 
